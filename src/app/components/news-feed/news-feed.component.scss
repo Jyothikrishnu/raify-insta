@@ -1,0 +1,98 @@
+.news-wrap{
+  cursor: pointer;
+
+  /* ---- Top section ---*/
+  .top-sec-wrap{
+    display: flex;
+    align-items: center;
+    padding: 10px 0px;
+
+    .each{
+      display: flex;
+      align-items: center;
+      flex: 0 0 30%;
+      justify-content: flex-end;
+      &.left{
+        flex: 0 0 70%;
+        justify-content: flex-start;
+      }
+
+      img{
+        height: 25px;
+        border-radius: 50px;
+        cursor: pointer;
+      }
+    }
+  }
+
+  /*--- mage section ---*/
+  .img-sec-wrap{
+    img{
+      width: 100%;
+    }
+  }
+
+  /*--- Control section ---*/
+  .control-sec-wrap{
+    display: flex;
+    padding: 10px 0px;
+    img{
+      height: 20px;
+      margin: 0px 5px;
+    }
+    .left{
+      flex: 0 0 70%;
+
+    }
+    .right{
+      flex: 0 0 30%;
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+
+  /* ------ Like section ---- */
+  .like-details-sec-wrap{
+    display: flex;
+    .profile-stack{
+      position: relative;
+      position: relative;
+      width: 50px;
+      height: 30px;
+      img{
+        height: 20px;
+        border-radius: 50px;
+        border: 2px solid #fff;
+        position: absolute;
+        left: 12px;
+        z-index: 8;
+        &:first-child{
+          left: 0px;
+          z-index: 9;
+        }
+      }
+      img{
+        &:last-child{
+          position: absolute;
+          left: 24px;
+          z-index: 7;
+        }
+      }
+    }
+  }
+
+  /*--- Desc section ---*/
+  .desc-sec-wrap{
+
+  }
+
+  .comment-sec-wrap{
+    .view-comment{
+      color: #ddd;
+    }
+  }
+
+  .read-more{
+    color: #676363;
+  }
+}

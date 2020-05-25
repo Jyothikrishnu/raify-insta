@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  background: #fafafa;
+
+  .cont-max-width{
+    width: 100%;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  .padding-15{
+    padding: 15px;
+  }
+}

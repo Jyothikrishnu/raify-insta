@@ -1,0 +1,44 @@
+<div class="news-wrap">
+
+  <div class="top-sec-wrap">
+      <div class="each left" >
+        <img [src]="icon" alt="insta">
+        <span>{{  articles?.title | trim: 80}}</span>
+      </div>
+      <div class="each right" >
+        <img src="../../../assets/img/dot.svg" alt="">
+      </div>
+  </div>
+
+  <div class="img-sec-wrap">
+    <img [src]="image" alt="">
+  </div>
+
+  <div class="control-sec-wrap">
+    <div class="left">
+      <img src="../../../assets/img/heart-outline.svg" alt="">
+      <img src="../../../assets/img/chatbubble-outline.svg" alt="">
+      <img src="../../../assets/img/navigate-outline.svg" alt="">
+    </div>
+    <div class="right" *ngIf="!disableBookmark" (click)="bookmark($event)" >
+      <img src="../../../assets/img/bookmark-outline.svg" alt="">
+    </div>
+  </div>
+
+  <div class="like-details-sec-wrap">
+      <span class="profile-stack" >
+        <img [src]="icon" alt="insta">
+        <img [src]="icon" alt="insta">
+        <img [src]="icon" alt="insta">
+      </span>
+      <span> 1024 others </span>
+  </div>
+  <div class="desc-sec-wrap">
+    {{ articles?.description | trim : limit }}<span class="read-more" (click)="readMore($event)" >{{readMoreText}}</span>
+  </div>
+  <div class="comment-sec-wrap">
+    <span class="view-comment" >
+      View all comments
+    </span>
+  </div>
+</div>

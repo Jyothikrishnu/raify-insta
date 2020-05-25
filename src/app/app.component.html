@@ -1,0 +1,17 @@
+<div class="wraper" detect-scroll (onScroll)="handleScroll($event)" bottomOffset="2000" topOffset="20000">
+  <div class="site-cont cont-max-width" >
+
+    <div class="each-sec top-nav-wrap padding-15" >
+      <top-nav></top-nav>
+    </div>
+
+    <div class="each-sec page-content-wraper padding-15" >
+      <router-outlet></router-outlet>
+    </div>
+
+    <div class="each-sec bottom-nav-wrapper padding-15">
+      <bottom-nav></bottom-nav>
+    </div>
+  </div>
+</div>
+

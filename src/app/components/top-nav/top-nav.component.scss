@@ -1,0 +1,35 @@
+.nav-wrap{
+  display: flex;
+
+  div{
+    display: flex;
+    flex: 1;
+    &:last-child{
+      justify-content: flex-end;
+    }
+  }
+
+  .msg-ico-wrap{
+    position: relative;
+    .label{
+      position: absolute;
+      width: 20px;
+      height: 15px;
+      background: red;
+      border-radius: 52px;
+      text-align: center;
+      font-size: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fff;
+      right: -8px;
+    }
+    .msg-icon{
+      height: 30px;
+    }
+  }
+  .margin-left-15{
+    margin-left: 15px;
+  }
+}

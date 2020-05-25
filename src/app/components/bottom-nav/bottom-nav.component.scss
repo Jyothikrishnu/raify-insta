@@ -1,0 +1,13 @@
+.nav-wrap{
+  display: flex;
+  div{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+}
+img{
+  height: 20px;
+}

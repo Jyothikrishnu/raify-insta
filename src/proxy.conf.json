@@ -1,0 +1,6 @@
+{
+  "/": {
+    "target": "https://newsapi.org",
+    "secure": false
+  }
+}

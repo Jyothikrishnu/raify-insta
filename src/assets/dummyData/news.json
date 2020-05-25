@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "totalResults": 4477,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Blockchain.com"
+            },
+            "author": null,
+            "title": "Bitcoin Halving Just Occured",
+            "description": "The easiest and most trusted transaction search engine and block explorer.",
+            "url": "https://www.blockchain.com/btc/block/000000000000000000024bead8df69990852c202db0e0097c1a12ea637d7e96d",
+            "urlToImage": "https://www.blockchain.com/explorer-frontend/static/explorer_og.png",
+            "publishedAt": "2020-05-11T19:32:17Z",
+            "content": "Block at depth 630000 in the Bitcoin blockchain\r\n000000000000000000024bead8df69990852c202db0e0097c1a12ea637d7e96d\r\nb191f5f973b9040e81c4f75f99c7e43c92010ba8654718e3dd1a4800851d300d"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dan Goodin, Ars Technica",
+            "title": "Now Chrome Can Block Ads That Leach Power From Your CPU",
+            "description": "Google developers have built a feature to help you avoid abusive ads. Here’s how to turn it on now.",
+            "url": "https://www.wired.com/story/now-chrome-can-block-ads-that-leach-power-from-your-cpu/",
+            "urlToImage": "https://media.wired.com/photos/5ebf3aee41093e9ce8dacb0c/191:100/w_1280,c_limit/Now-Chrome-Can-Block-Ads-That-Leach-Power-From-Your-CPU.jpg",
+            "publishedAt": "2020-05-17T14:00:00Z",
+            "content": "Chrome browser users take heart: Google developers are rolling out a feature that neuters abusive ads that covertly leach your CPU resources, bandwidth, and electricity.\r\nThis story originally appear… [+2798 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Shoshana Wodinsky",
+            "title": "Madonna, Mariah Carey and Other Major Celebs Are Caught up in a Recent Ransomware Attack",
+            "description": "A Manhattan law firm frequented by some of the biggest names in the entertainment industry has been hit with a hack compromising over 750 gigabytes of intel on its famous clientele. Now, the hackers are threatening to go public with the resulting database unl…",
+            "url": "https://gizmodo.com/madonna-mariah-carey-and-other-major-celebs-are-caught-1843419053",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/jrbooeghc9kgtlnfqja6.jpg",
+            "publishedAt": "2020-05-12T19:50:00Z",
+            "content": "A Manhattan law firm frequented by some of the biggest names in the entertainment industry has been hit with a hack compromising over 750 gigabytes of intel on its famous clientele. Now, the hackers … [+2233 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Henry Pickavet",
+            "title": "Crypto Startup School: A new type of computer drives waves of innovation",
+            "description": "In week one of a16z’s Crypto Startup School, the firm addresses “Crypto Networks and Why They Matter” and “Blockchain Primitives: Cryptography and Consensus.”",
+            "url": "http://techcrunch.com/2020/05/13/a-new-type-of-computer-drives-waves-of-innovation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1038383026.jpg?w=711",
+            "publishedAt": "2020-05-13T19:00:50Z",
+            "content": "Editors note: Andreessen Horowitzs Crypto Startup School brought together 45 participants from around the U.S. and overseas in a seven-week course to learn how to build crypto companies. Andreessen H… [+2846 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox, CMT",
+            "title": "Billionaire Chamath Palihapitiya says the economy is 'completely divorced' from the stock and bond markets — and issues a warning for the Fed (BTCUSD)",
+            "description": "<ul>\n<li>Social Capital CEO and Virgin Galactic Chairman Chamath Palihapitiya said the economy is \"completely divorced\" from the stock and bond markets.</li>\n<li>In a CNBC interview Tuesday morning, Palihapitiya said the Fed has acted as the \"principal agent\"…",
+            "url": "https://markets.businessinsider.com/news/stocks/chamath-palihapitiya-says-economy-is-divorced-stock-market-fed-warning-2020-5-1029193570",
+            "urlToImage": "https://images.markets.businessinsider.com/image/5ebabff2e3c3fb07b35ef647-2400/2020-04-22t020606z2lynxnpeg3k225rtroptp4social-capital-ipo.jpg",
+            "publishedAt": "2020-05-13T17:46:00Z",
+            "content": "Reuters\r\n<ul><li>Social Capital CEO and Virgin Galactic Chairman Chamath Palihapitiya said the economy is \"completely divorced\" from the stock and bond markets.</li><li>In a CNBC interview Tuesday mo… [+3138 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "A crypto investor lost nearly $250,000 after his chosen fund collapsed during the coronavirus sell-off",
+            "description": "<ul>\n<li>An investor in cryptocurrency hedge funds saw nearly 99% of a $250,000 investment wiped out after his chosen fund collapsed during the market meltdown.</li>\n<li>\"I don't really know what happened,\" Vlad Matveev told the Financial Times.</li>\n<li>Matv…",
+            "url": "https://www.businessinsider.com/crypto-investor-lost-almost-250000-dollars-coronavirus-closed-fund-2020-5",
+            "urlToImage": "https://i.insider.com/5ec6515cf34d05200012dfc4?width=1200&format=jpeg",
+            "publishedAt": "2020-05-21T10:58:04Z",
+            "content": "<ul><li>An investor in cryptocurrency hedge funds saw nearly 99% of a $250,000 investment wiped out after his chosen fund collapsed during the market meltdown.</li><li>\"I don't really know what happe… [+2671 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "David Canellis",
+            "title": "Satoshi Nakamoto, is that you? Bitcoin mined in 2009 moves for the first time",
+            "description": "A chunk of Bitcoin has just moved for the first time since it was mined way back in 2009, causing some to speculate that Satoshi Nakamoto has returned. The shift was detected by Twitter-based blockchain monitor @whale_alert, which confirmed that the 40 BTC fe…",
+            "url": "https://thenextweb.com/hardfork/2020/05/20/bitcoin-satoshi-nakaboto-return-cryptocurrency-2009-moved-first-time/",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fsatoshi-nakamoto-cryptocurrency-bitcoin.jpg&signature=a0562c1d6717018530b4d9a9289e1d2a",
+            "publishedAt": "2020-05-20T15:21:55Z",
+            "content": "A chunk of Bitcoin BTC has just moved for the first time since it was mined way back in 2009, causing some to speculate that Satoshi Nakamoto has returned.\r\nThe shift was detected by Twitter-based bl… [+1221 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Hackers hit A-list law firm of Lady Gaga, Drake and Madonna",
+            "description": "Grubman Shire Meiselas & Sacks hit by hackers who claim to have contracts and personal emails of stars.",
+            "url": "https://www.bbc.co.uk/news/technology-52632729",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4654/production/_112240081_stars.jpg",
+            "publishedAt": "2020-05-12T11:38:17Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n The hackers claim to have information, including non-disclosure agreements, from hundreds of stars\r\nA law firm used by A-list stars including Rod Stewart, L… [+2364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blog.google"
+            },
+            "author": "Rana AbdelhamidGlobal Marketing LeadWomen Techmakers",
+            "title": "One founder’s mission to make healthcare more accessible",
+            "description": "In 2018, women received only 2.2 percent of all venture capital funding. Women Techmakers, Google’s program to build visibility, community and resources for women in technology, is committed to changing this narrative. That’s why we launched Founded, a web se…",
+            "url": "https://www.blog.google/outreach-initiatives/entrepreneurs/founded-chrissa-mcfarlane-patientory/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FMKuf+%28The+Keyword+%7C+Official+Google+Blog%29",
+            "urlToImage": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+            "publishedAt": "2020-05-14T16:00:00Z",
+            "content": "In 2018, women received only 2.2 percent of all venture capital funding.Women Techmakers, Googles program to build visibility, community and resources for women in technology, is committed to changin… [+3892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Isabel Grünewald",
+            "title": "Kurz informiert: Online-Banking, Flexgate, Google, Bitcoin",
+            "description": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
+            "url": "https://www.heise.de/newsticker/meldung/Kurz-informiert-Online-Banking-Flexgate-Google-Bitcoin-4718611.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/8/9/2/6/2/8/Einzelbild-dc75ae12a5445729.jpeg",
+            "publishedAt": "2020-05-11T15:11:00Z",
+            "content": "Fast jeder fünfte Deutsche bleibt skeptisch gegenüber digitalen Formen von Bankgeschäften. In einer repräsentativen YouGov-Umfrage im Auftrag des Genossenschaftsverbandes gaben 18 Prozent der Befragt… [+2592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heise.de"
+            },
+            "author": "Axel Kannenberg",
+            "title": "Bitcoin: Miner-Belohnung wird halbiert, Kurs um 10.000 US-Dollar",
+            "description": "Anfang kommender Woche halbiert sich die Belohnung für Bitcoinminer auf 6,25 Bitcoin. So mancher in der Kryptogeldszene erwartet ein Kursfeuerwerk.",
+            "url": "https://www.heise.de/newsticker/meldung/Miner-Belohnung-wird-bald-halbiert-Bitcoinkurs-auf-fast-10-000-US-Dollar-4717815.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/8/9/2/0/1/8/shutterstock_1466689460-9ae029318c00576c.jpeg",
+            "publishedAt": "2020-05-08T17:07:00Z",
+            "content": "Der Kurs der Kryptowährung Bitcoin ist vor einem mit Spannung erwarteten Großereignis an manchen Handelplätzen über die Marke von 10.000 US-Dollar gestiegen. In der Nacht auf Freitag überstieg der Ku… [+2196 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Derek Mead, Jason Koebler",
+            "title": "A Totally Reasonable Explanation for Elon Musk Tanking Tesla’s Stock Price",
+            "description": "As with everything, our most important economic lessons come from Bitcoin.",
+            "url": "https://www.vice.com/en_us/article/884wpa/why-did-elon-musk-tweet-tank-tesla-stock-price",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5eac7a31c3db63009c388ba4/lede/1588362165912-Screen-Shot-2020-05-01-at-34212-PM.png?crop=1xw:0.7794xh;0xw,0xh&resize=1200:*",
+            "publishedAt": "2020-05-01T19:45:28Z",
+            "content": "It's Friday, Tesla CEO Elon Musk is making a ton of reckless tweets, and the sun is out, so now seems like a good time to blog. I've got an argument for why Musk tweeting that Tesla's stock price is … [+10032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blockstream.com"
+            },
+            "author": "Adam Back, Chris Cook",
+            "title": "Blockstream Satellite 2.0",
+            "description": "We are pleased to announce Blockstream Satellite 2.0 is now live, bringing a standards-based transmission protocol, more bandwidth, additional coverage areas...",
+            "url": "https://blockstream.com/2020/05/04/en-announcing-blockstream-satellite-2/",
+            "urlToImage": "https://blockstream.com/img/blog/2020-05-04/Satellite2.png",
+            "publishedAt": "2020-05-06T04:32:25Z",
+            "content": "We are pleased to announce Blockstream Satellite 2.0 is now live, bringing a standards-based transmission protocol, more bandwidth, additional coverage areas, and the ability to sync a Bitcoin full n… [+6070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Write.as"
+            },
+            "author": "knowledgeprover",
+            "title": "ZkSNARKs Primer Part 1: What Are ZkSNARKs",
+            "description": "The introduction of Bitcoin in 2009 turned more research attention towards generalized blockchains, and privacy issues lead in turn to se...",
+            "url": "https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer",
+            "urlToImage": "https://i.imgur.com/EglmX0f.png",
+            "publishedAt": "2020-05-25T00:58:09Z",
+            "content": "The introduction of Bitcoin in 2009 turned more research attention towards generalized blockchains, and privacy issues\r\nlead in turn to seeking methods to make blockchains more private.\r\nBut it took … [+21408 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Details of 44 Million Pakistani Mobile Users Leaked Online, Part of Bigger 115 Million Cache",
+            "description": "An anonymous reader quotes a report from ZDNet: The details of 44 million Pakistani mobile subscribers have leaked online this week, ZDNet has learned. The leak comes after a hacker tried to sell a package containing 115 million Pakistani mobile user records …",
+            "url": "https://it.slashdot.org/story/20/05/06/2058249/details-of-44-million-pakistani-mobile-users-leaked-online-part-of-bigger-115-million-cache",
+            "urlToImage": "https://a.fsdn.com/sd/topics/security_64.png",
+            "publishedAt": "2020-05-07T00:02:00Z",
+            "content": "The details of 44 million Pakistani mobile subscribers have leaked online this week, ZDNet has learned. The leak comes after a hacker tried to sell a package containing 115 million Pakistani mobile u… [+1309 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Mix",
+            "title": "New Android ransomware threatens to ‘expose’ your porn escapades to the FBI",
+            "description": "No, the feds don’t care about the porn you may or may not have downloaded — but hackers sure want you to believe so. There’s a new Android ransomware that encrypts your files and poses as the FBI to trick you into providing your credit card information. Dubbe…",
+            "url": "https://thenextweb.com/?p=1288307",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F04%2Fsextortion-blockchain-cryptocurrency-bitcoin-masturbation-video-hack.jpg&signature=3212fb12a19fb2deb4849037d4703cab",
+            "publishedAt": "2020-04-28T10:00:51Z",
+            "content": "No, the feds dont care about the porn you may or may not have downloaded but hackers sure want you to believe so.\r\nTheres a new Android ransomware that encrypts your files and poses as the FBI to tri… [+2206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketwatch.com"
+            },
+            "author": "Nigam Arora",
+            "title": "Stock market investors are oblivious to the potential calamity of negative interest rates",
+            "description": "If the U.S. employs negative rates, investors better think about protection in the form of gold, bitcoin and other vehicles.",
+            "url": "https://www.marketwatch.com/story/stock-market-investors-are-oblivious-to-the-potential-calamity-of-negative-interest-rates-2020-05-08",
+            "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-HB317_blindf_ZG_20190104102322.jpg",
+            "publishedAt": "2020-05-08T14:50:28Z",
+            "content": "The stock markets party is getting louder on news that the U.S. and China are talking about trade. Investors are too drunk to notice that the fed funds futures rate has gone negative. This contradict… [+3771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketwatch.com"
+            },
+            "author": "Mark DeCambre",
+            "title": "Cryptos: Don’t look now—much-maligned bitcoin is outperforming gold and bullish investors are eyeing $10,000 and beyond",
+            "description": "Bitcoin is on the rise lately. The world’s most prominent digital currency has been rallying, managing to outperform gold prices in the last 12 months amid the coronavirus pandemic that has rocked global economies.",
+            "url": "https://www.marketwatch.com/story/dont-look-nowmuch-maligned-bitcoin-is-outperforming-gold-and-bullish-investors-are-eyeing-10000-and-beyond-2020-05-01",
+            "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-IF670_bitcoi_ZG_20200501125903.jpg",
+            "publishedAt": "2020-05-01T20:08:02Z",
+            "content": "Bitcoin is on the rise lately amid the coronavirus pandemic that has rocked financial markets world-wide. The worlds most prominent digital currency has been enjoying a run-up of late, managing to ou… [+3233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketwatch.com"
+            },
+            "author": "Mark DeCambre",
+            "title": "Market Extra: What is the bitcoin halving and which day does it happen?",
+            "description": "One of the biggest events in the world of digital currencies is about to take place.",
+            "url": "https://www.marketwatch.com/story/what-is-the-bitcoin-halving-and-which-day-does-it-happen-2020-05-11",
+            "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-GJ604_bitcoi_ZG_20180521201738.jpg",
+            "publishedAt": "2020-05-11T16:50:51Z",
+            "content": "The event is known as the halving or halvening, and occurs every four years, where the rewards for those who support bitcoin are slashed, quite literally, in half. So-called bitcoin miners expend tre… [+3822 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketwatch.com"
+            },
+            "author": "Shawn Langlois",
+            "title": "The Tell: ‘Rich Dad, Poor Dad’ Robert Kiyosaki: ‘Pray for the best, prepare for the worst’ with these three investments",
+            "description": "The best-selling author’s gloomy assessment is in line with what he’s been saying for a while.",
+            "url": "https://www.marketwatch.com/story/rich-dad-poor-dad-robert-kiyosaki-pray-for-the-best-prepare-for-the-worst-with-these-three-investments-2020-05-17",
+            "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-IG666_kiyosa_ZG_20200517154435.jpg",
+            "publishedAt": "2020-05-17T19:46:03Z",
+            "content": "Pray for the best prepare for the worst, says Rich Dad, Poor Dad author Robert Kiyosaki, who laid out in a tweet over the weekend how he suggests doing just that:The gloomy assessment is in line with… [+1497 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thedistillery.pub"
+            },
+            "author": "Cipher-K",
+            "title": "Fake News, Fake Money, and Living in a World Without Authority – A. Antonopoulos",
+            "description": "Today, we again revisit one of Andreas’ greatest hits, “Fake News, Fake Money and Living in a World Without Authority” , unedited, and transcribed in full. This talk took place over three years ago, (yet seems more relevant than ever) at the Silicon Valley Bi…",
+            "url": "https://thedistillery.pub/fake-news-fake-money-and-living-in-a-world-without-authority-andreas-m-antonopoulos-video-transcript",
+            "urlToImage": "https://thedistillery.pub/wp-content/uploads/2020/04/fake-money.jpg",
+            "publishedAt": "2020-04-29T03:54:00Z",
+            "content": "Today, we again revisit one of Andreas’ greatest hits, Fake News, Fake Money and Living in a World Without Authority , unedited, and transcribed in full. This talk took place over three years ago, (y… [+19456 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dan Goodin",
+            "title": "Chrome will soon block resource-draining ads. Here’s how to turn it on now",
+            "description": "Fed up with cryptojacking ads? Google developers have you covered.",
+            "url": "https://arstechnica.com/information-technology/2020/05/chrome-will-soon-block-resource-draining-ads-heres-how-to-turn-it-on-now/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/10/GettyImages-1035974096-760x380.jpg",
+            "publishedAt": "2020-05-14T19:37:57Z",
+            "content": "14 with 13 posters participating\r\nChrome browser users take heart: Google developers are rolling out a feature that neuters abusive ads that covertly leach your CPU resources, bandwidth, and electric… [+2431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Avc.com"
+            },
+            "author": "Fred Wilson",
+            "title": "Quantitative Tightening",
+            "description": "I saw this tweet a few days ago and thought “that’s clever”: On or about May 12th, Bitcoin will go through its third “halvening” in which the rewards for mining bitocin will be cut in half. This will reduce the “inflation rate” of new bitcoins being mined and…",
+            "url": "https://avc.com/2020/05/quantitative-tightening/",
+            "urlToImage": null,
+            "publishedAt": "2020-05-04T13:04:02Z",
+            "content": "I saw this tweet a few days ago and thought “that’s clever”:\r\nOn or about May 12th, Bitcoin will go through its third “halvening” in which the rewards for mining bitocin will be cut in half. This wil… [+737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Venturebeat.com"
+            },
+            "author": "Dean Takahashi",
+            "title": "Altr raises $15 million to broaden data-security-as-a-service",
+            "description": "Altr has raised $15 million to broaden its business of providing data-security-as-a-service in the era of cloud technology.",
+            "url": "https://venturebeat.com/2020/05/13/altr-raises-15-million-to-broaden-data-security-as-a-service/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2020/05/altr-devteam.jpg?w=1200&strip=all",
+            "publishedAt": "2020-05-13T12:00:43Z",
+            "content": "Altr has raised $15 million to broaden its business of providing data-security-as-a-service in the era of cloud technology. The Austin, Texas-based company has created a data security solution that l… [+1349 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Carmen Reinicke",
+            "title": "'The worst is yet to come': The Fed's Kashkari issues a grim outlook for US jobs, and urges more assistance from Congress",
+            "description": "<ul>\n<li>\nFederal Reserve Bank of Minneapolis President Neel Kashkari said that US workers will likely need more aid from Congress for a gradual coronavirus recovery on a Sunday interview with ABC's \"The Week.\" \r\n\n</li>\n<li>\"It's really around 23%, 24% of peo…",
+            "url": "https://www.businessinsider.com/economy-recovery-coronavirus-feds-kashkari-more-aid-needed-congress-jobs-2020-5",
+            "urlToImage": "https://i.insider.com/5eb943ab57853272cb62d667?width=1200&format=jpeg",
+            "publishedAt": "2020-05-11T13:08:02Z",
+            "content": "American workers may be in for more pain amid the coronavirus pandemic, even after Friday's dismal jobs report, said Federal Reserve Bank of Minneapolis President Neel Kashkari on a Sunday interview … [+1552 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Avc.com"
+            },
+            "author": "Fred Wilson",
+            "title": "American Kingpin",
+            "description": "I read my friend Nick Bilton‘s book American Kingpin over the last few weeks. It is the story of Ross Ulbricht (aka Dread Pirate Roberts), the founder and owner of The Silk Road. It is a fascinating story with many angles; drug and arms dealing, entrepreneurs…",
+            "url": "https://avc.com/2020/05/american-kingpin/",
+            "urlToImage": "https://avc.com/content/uploads/2020/05/Screen-Shot-2020-05-19-at-8.00.21-AM.png",
+            "publishedAt": "2020-05-19T12:07:45Z",
+            "content": "I read my friend Nick Bilton‘s book American Kingpin over the last few weeks. It is the story of Ross Ulbricht (aka Dread Pirate Roberts), the founder and owner of The Silk Road.\r\nIt is a fascinating… [+1735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketwatch.com"
+            },
+            "author": "Mark DeCambre",
+            "title": "Key Words: Hedge-fund boss who called the ’87 crash and made timely call on gold now says: ‘If I am forced to forecast, my bet is it will be bitcoin’ as the best inflation hedge",
+            "description": "Billionaire investor Paul Tudor Jones made a prescient call on bullion in 2019, now he’s saying that bitcoin futures, the controversial digital currency, reminds him of gold in the 1970s, and may be the best hedge against inflation.",
+            "url": "https://www.marketwatch.com/story/hedge-fund-boss-who-called-the-87-crash-and-made-timely-call-on-gold-now-says-if-i-am-forced-to-forecast-my-bet-is-it-will-be-bitcoin-as-the-best-inflation-hedge-2020-05-07",
+            "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-HL278_paul_t_ZG_20190612114007.jpg",
+            "publishedAt": "2020-05-07T22:09:40Z",
+            "content": "Billionaire investor Paul Tudor Jones made a prescient call on bullion in 2019; now hes saying that bitcoin, the controversial digital currency, reminds him of gold in the 1970s, and may be the best … [+3026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wordpress.com"
+            },
+            "author": "thomashartman1",
+            "title": "A16Z struggles to earn passing grade in crypto fund II investor letter",
+            "description": "A16Z put out a sort of combined think piece and “request for startups” at Since I am getting questions on this, I will just give some quick thoughts about the a16z roadmap here, to help…",
+            "url": "https://standardcrypto.wordpress.com/2020/04/30/a16z-struggles-to-earn-passing-grade-in-crypto-fund-ii-learn-by-doing-classroom-project/",
+            "urlToImage": "https://s0.wp.com/i/blank.jpg",
+            "publishedAt": "2020-05-01T15:20:56Z",
+            "content": "A16Z put out a sort of combined think piece and “request for startups” at https://a16z.com/2020/04/30/crypto-fund-ii/\r\nSince I am getting questions on this, I will just give some quick thoughts about… [+3898 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ivan Mehta",
+            "title": "How to build a live shared Spotify playlist for you and your mates",
+            "description": "Welcome to TNW Basics, a collection of tips, guides, and advice on how to easily get the most out of your gadgets, apps, and other stuff. Picture this: You’re at your friend’s house for a party, and you want to play a song. You’ll ask them to add that song to…",
+            "url": "https://thenextweb.com/?p=1291405",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F07%2FSpotify-Lite.jpg&signature=c76cd810046dcd522e3b3b013f8ca6e3",
+            "publishedAt": "2020-05-12T09:40:19Z",
+            "content": "Welcome to TNW Basics, a collection of tips, guides, and advice on how to easily get the most out of your gadgets, apps, and other stuff.\r\nPicture this: Youre at your friends house for a party, and y… [+988 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Androidcentral.com"
+            },
+            "author": "Jared DiPane",
+            "title": "Does ExpressVPN offer a free trial?",
+            "description": "Best answer: As of right now, ExpressVPN does not offer any sort of free trial for its service. With the purchase of its one-year plan you do get a 30-day money-back guarantee which will score you a full refund should you not find the service useful or do not…",
+            "url": "https://www.androidcentral.com/does-expressvpn-offer-free-trial",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/05/expressvpn-mockup-phone-placeit.jpg?itok=X2JhmFGd",
+            "publishedAt": "2020-05-21T18:40:24Z",
+            "content": "When it comes to VPN providers, very few of them actually offer a free trial of the service. ExpressVPN is one of the ones that does not, though that doesn't mean you have to sign up for a risky long… [+1982 chars]"
+        }
+    ]
+}
