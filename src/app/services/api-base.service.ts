@@ -68,25 +68,11 @@ export class ApiBaseService {
     return { params: httpParams, headers: headers };
   }
 
-  private getResponseTypeOptions(optionalParams?) {
-    const { responseType, ...restParams } = optionalParams;
-    const basicOptions = this.getOptions(restParams.params);
-    return { ...basicOptions, responseType: responseType };
-  }
-
   public get<T>(route: string, params?): Observable<any> {
     return this.httpClient.get<T>(
       this.getFullApiRoute(route),
       this.getOptions(params)
     );
   }
-
-  public getById<T>(route: string, id: number, params?) {
-    return this.httpClient.get<T>(
-      this.getFullApiRoute(route, id),
-      this.getOptions(params)
-    );
-  }
-
 
 }
